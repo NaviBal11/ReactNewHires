@@ -1,0 +1,76 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "fullname": "John Doe",
+      "dob": "1990-05-15",
+      "position": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "fullname": "Jane Smith",
+      "dob": "1985-11-22",
+      "position": "Senior Frontend Developer"
+    },
+    {
+      "id": 3,
+      "fullname": "Mike Johnson",
+      "dob": "1982-08-10",
+      "position": "Product Manager"
+    },
+    {
+      "id": 4,
+      "fullname": "Emily White",
+      "dob": "1993-03-28",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 5,
+      "fullname": "Alex Turner",
+      "dob": "1988-09-05",
+      "position": "DevOps Engineer"
+    },
+    {
+      "id": 6,
+      "fullname": "Sara Patel",
+      "dob": "1995-07-12",
+      "position": "Backend Developer"
+    },
+    {
+      "id": 7,
+      "fullname": "Daniel Lee",
+      "dob": "1980-12-03",
+      "position": "React Developer"
+    },
+    {
+      "id": 8,
+      "fullname": "Lee Robinson",
+      "dob": "1987-04-18",
+      "position": "Data Scientist"
+    },
+    {
+      "id": 9,
+      "fullname": "Chris Evans",
+      "dob": "1991-06-20",
+      "position": "QA Engineer"
+    },
+    {
+      "id": 10,
+      "fullname": "Steven Tay",
+      "dob": "1984-01-07",
+      "position": "Technical Lead"
+    },
+    {
+      "fullname": "Navi bal",
+      "dob": "1994-01-11",
+      "position": "React developer",
+      "id": 11
+    },
+    {
+      "fullname": "Naveen",
+      "dob": "2023-11-26",
+      "position": "Head",
+      "id": 12
+    }
+  ]
+}
